@@ -23,12 +23,12 @@ This dataset contained records from 2001 - 2019. Size - 1.6GB data (6.6M unique 
 
 # Illustration from Webapp - 
 
-![Interactive Visualizations]
+![Interactive Visualizations](https://github.com/rohanharode/Crime-Analysis/blob/master/webapp_interactive_tab.png)
 
-![WordClouds]
+![WordClouds](https://github.com/rohanharode/Crime-Analysis/blob/master/webapp_wordcloud_tab.png)
 
-![Forecasting]
+![Forecasting](https://github.com/rohanharode/Crime-Analysis/blob/master/webapp_forecast_tab.png)
 
-![Static Visualizations]
+![Static Visualizations](https://github.com/rohanharode/Crime-Analysis/blob/master/webapp_static_tab.png)
 
 
