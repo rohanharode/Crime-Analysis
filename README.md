@@ -18,6 +18,7 @@ This dataset contained records from 2001 - 2019. Size - 1.6GB data (6.6M unique 
 1. Data Cleaning & Filtering - Spark Dataframes and Spark SQL functions
 2. Data Manipulation - Spark,Cassandra, Python, Pandas
 3. Data Visualization - Plotly, Dash
+4. Forecasting - FBprophet
 4. Webapp - Dash, Flask
 
 
